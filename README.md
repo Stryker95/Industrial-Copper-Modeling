@@ -1,10 +1,8 @@
 # Industrial-Copper-Modeling
 
-ML Regression model which predicts continuous variable ‘Selling_Price’. 
+1.ML Regression model which predicts continuous variable ‘Selling_Price’. (r2_test score-0.9533077717981346)
 
-r2_test score-0.9533077717981346
-
-ML Classification model which predicts Status: WON or LOST.
+2.ML Classification model which predicts Status: WON or LOST.
 
 RandomForestClassifier()
 
